@@ -1,0 +1,23 @@
+{
+  "name": "shopify-migration",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "migrate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedezzaouia/node.js-shopify-migration-script-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedezzaouia/node.js-shopify-migration-script-/issues"
+  },
+  "homepage": "https://github.com/ahmedezzaouia/node.js-shopify-migration-script-#readme",
+  "dependencies": {
+    "shopify-api-node": "^3.12.1"
+  }
+}
